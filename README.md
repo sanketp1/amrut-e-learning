@@ -16,11 +16,11 @@
 
 > <img width="12"  src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" >**`Flutter`** <br>
 ><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Flutter is an open-source UI software development kit created by Google. It is used to develop cross-platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia, and the web from a single codebase. First described in 2015, Flutter was released in May 2017.</p>
-for more details:- <a href="https://flutter.dev/">https://flutter.dev/</a>
+>for more details:- <a href="https://flutter.dev/">https://flutter.dev/</a>
 
 > <img width="12"  src="https://pbs.twimg.com/profile_images/1417542931209199621/fWMEIB5j_400x400.jpg" >**`FastAPI`** <br>
 ><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FastAPI is a Web framework for developing RESTful APIs in Python. FastAPI is based on Pydantic and type hints to validate, serialize, and deserialize data, and automatically auto-generate OpenAPI documents.It fully supports asynchronous programming and can run with Gunicorn and ASGI servers for production such as Uvicorn and Hypercorn.To improve developer-friendliness, editor support was considered since the earliest days of the project</p>
-for more details:- <a href="https://fastapi.tiangolo.com/">https://fastapi.tiangolo.com/</a>
+>for more details:- <a href="https://fastapi.tiangolo.com/">https://fastapi.tiangolo.com/</a>
 
 
 
