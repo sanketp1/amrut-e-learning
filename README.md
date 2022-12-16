@@ -2,7 +2,7 @@
 
 ### Amrut E-Learning platform is offline educational courses delivery platform that include seamless content delivery without any video buffering that usually faced by many OTT server. One of the most prominent feature of this platform is that it doesn't cost you any internet charges as it hosted local on **`RaspberryPi`** .
 
-> **Preview**
+> **Preview **
 
 <center><img src="https://firebasestorage.googleapis.com/v0/b/offline-ott-platform.appspot.com/o/e-learning-app-preview-updated.gif?alt=media&token=cfe3603f-b8a2-4c3b-8dc8-e9e4302dc38f" width="320" height="640" /></center>
 
