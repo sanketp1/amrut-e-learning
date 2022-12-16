@@ -25,6 +25,13 @@
 ><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FastAPI is a Web framework for developing RESTful APIs in Python. FastAPI is based on Pydantic and type hints to validate, serialize, and deserialize data, and automatically auto-generate OpenAPI documents.It fully supports asynchronous programming and can run with Gunicorn and ASGI servers for production such as Uvicorn and Hypercorn.To improve developer-friendliness, editor support was considered since the earliest days of the project</p>
 >for more details:- <a href="https://fastapi.tiangolo.com/">https://fastapi.tiangolo.com/</a>
 
+<div style="position:relative;width:fit-content;height:fit-content;">
+            <a style="position:absolute;top:20px;right:1rem;opacity:0.8;" href="https://clipchamp.com/watch/gnM1jBCnXwk?utm_source=embed&utm_medium=embed&utm_campaign=watch">
+                <img style="height:22px;" src="https://clipchamp.com/e.svg" alt="Made with Clipchamp" />
+            </a>
+            <iframe allowfullscreen style="border:none" src="https://clipchamp.com/watch/gnM1jBCnXwk/embed" width="640" height="360"></iframe>
+        </div>
+
 > <img width="12"  src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" >**`Postman`** <br>
 ><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Postman is an API platform for developers to design, build, test and iterate their APIs. As of April 2022, Postman reports having more than 20 million registered users and 75,000 open APIs, which it says constitutes the world's largest public API hub.</p>
 >for more details:- <a href="https://www.postman.com/">https://www.postman.com/</a>
