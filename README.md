@@ -4,7 +4,10 @@
 
 > **Preview**
 
-<center><img src="https://firebasestorage.googleapis.com/v0/b/offline-ott-platform.appspot.com/o/output1.gif?alt=media&token=4e51e082-3d9d-4c71-b8de-71be04240a0b" width="320" height="640" /></center>
+<video width="320" height="240" autoplay>
+  <source src="https://firebasestorage.googleapis.com/v0/b/offline-ott-platform.appspot.com/o/Offline_e-learning_platform.mp4?alt=media&token=25590cec-daf3-4d2b-a438-efbcb6bda398" type="video/mp4">
+ 
+</video>
 
 #### **`How to connect with the platform?`**
 > It's pretty simple to connect with the platform you just need to connect the access point (hostpot) where the server is host I mean to the **`RaspberryPi`**. Here you go, you can enjoy learning various courses and one of the most interesting thing is it doesn't cost you any internet charages and aslo provide you seamless content delivery experience.
